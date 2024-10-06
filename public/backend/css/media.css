@@ -1,0 +1,460 @@
+@media only screen and (max-width: 479px){
+	/*********************************
+	dashboard
+	*******************************************/
+	.main-header .logo-header .more{
+		color: #fff;
+	}
+	.main-header .navbar-header {
+		 min-height: 55px;
+		background: #2c3248;
+		top: -5px;
+	}
+	input.input100{
+		margin-top: 10px;
+	}
+	.notfound-404 h1{
+		font-size: 90px;
+	}
+	.notfound-404 {
+	  height: 130px;
+	}
+	.fullError .errorContent h2{
+		font-size: 20px;
+	}
+	.fullError .errorContent p{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.returnHome {
+	    margin-top: 40px;
+	}
+	/****************************************
+	card
+	****************************************/
+	.card-title i {
+    font-size: 12px;
+  }
+  .card .card-title {
+    font-size: 12px;
+  }
+	.btn-sm {
+	  font-size: 10px;
+	  padding: 7px 11px;
+	}
+	.btn-border.btn-info{
+		border: 0!important;
+		margin-right: 0!important;
+	}
+	.bottomPagination a.page-prev,.bottomPagination a.page-next{
+		display: none;
+	}
+	.formTitle {
+	  font-size: 13px;
+	  font-weight: 500;
+	}
+	.error,.notice{
+		font-size: 13px;
+	}
+	#stickySidebar{
+		margin-top: 0!important;
+	}
+	/********************************
+	student form
+	*************************************/
+	.inlinemgTop {
+	  margin-top: 0;
+	  cursor: pointer;
+	}
+	.inlineNoInput .form-control{
+		width: 100%;
+	}
+	.studentForm .form-inline .formInlineTitle {
+	  margin-right: 5px;
+	  margin: 10px 0;
+	}
+	.inlineCheckBox ul li {
+	    display: block;
+	}
+	.inlinemgTop.inlineCheckBox ul li{
+		display: inline-block;
+	}
+	/*****************************
+	home dashboard
+	**************************************/
+	.topHomeCol{
+		margin-bottom: 20px;
+	}
+/*	.horizontal-tabs .nav-tabs .nav-link{
+		font-size: 13px;
+		padding: 8px 5px;
+	}*/
+	.horizontal-tabs .nav-tabs .nav-item{
+	    display: block;
+	    width: 100%;
+	    text-align: center;
+	}
+	.horizontal-tabs .nav-tabs .nav-link{
+		border: 1px solid #eee;
+	}
+	/*********************************
+	student profile
+	*************************************/
+	.profileInfoName, .profileInfoValue {
+		display: block;
+		vertical-align: middle;
+		width: 100%;
+		text-align: left;
+	}
+	.foo{
+		position: relative;
+		height: auto;
+	}
+	.noticeCols .card-body{
+		padding-right: 0;
+	}
+	.fc-toolbar .fc-right{
+		float: left;
+		margin-bottom: 20px;
+	}
+	.fc-toolbar .fc-left{
+		margin-bottom: 20px;
+	}
+	.fc-icon, .fc-toolbar .fc-center {
+	  display: block;
+	  text-align: center;
+	}
+	.fc-icon, .fc-toolbar .fc-center {
+	    display: inline-block;
+	    margin-top: 15px;
+	}
+	.foo .fakeScroll__wrap {
+	  padding-right: 0;
+	}
+	/**********************************************
+	form-wizard
+	****************************************************/
+	.wizard-container .wizard-menu.nav-primary .moving-tab{
+		width: 100%!important;
+		display: none;
+	}
+	.wizard-container .wizard-menu li {
+	  background: #f5f5f5;
+	  width: 100%!important;
+	}
+	.nav-pills.nav-primary .nav-link.active {
+	    color: #333!important;
+	    font-size: 15px;
+	    font-weight: 500;
+	}
+	.wizard-container .wizard-menu.nav-primary li a{
+		font-size: 15px;
+		font-weight: 500;
+	}
+	.wizard-container .wizard-menu li a i{
+		display: none;
+	}
+	/************************************
+	main home
+	***************************************/
+	.noticeCols .card-body{
+		padding: 0;
+	}
+	.statusBox{
+		font-size: 12px;
+	}
+	.studentTitle{
+		margin-top: 20px;
+	}
+	/**********************************
+	resume form
+	*************************************/
+	.mainResumeForm .modal{
+		padding-right: 0!important;
+	}
+	/***************************
+	login
+	*********************************/
+	.userLoginTitle{
+		font-size: 13px;
+	}
+	.flex-sb-m .custom-control-label{
+		font-size: 12px;
+		vertical-align: middle;
+	}
+	.flex-sb-m .custom-control-label::before{
+		top: 1px;
+	}
+	.txt1{
+		font-size: 12px;
+	}
+	/*******************************
+	student profile
+	***********************************/
+	.profileFlex ul li {
+	    flex-basis: 50%;
+	}
+	.accordionListBg .profileFlex ul li{
+	    flex-basis: 100%;
+
+	}
+	.bookDetails ul li {
+	    flex-basis: 100%;
+	}
+
+
+
+}
+@media only screen and (min-width: 480px) and (max-width: 767px){
+	/*********************************
+	dashboard
+	*******************************************/
+	.main-header .logo-header .more{
+		color: #fff;
+	}
+	.main-header .navbar-header {
+		 min-height: 55px;
+		background: #2c3248;
+		top: -5px;
+	}
+	.notfound-404 h1{
+		font-size: 90px;
+	}
+	.notfound-404 {
+	  height: 130px;
+	}
+	.fullError .errorContent h2{
+		font-size: 20px;
+	}
+	.fullError .errorContent p{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.returnHome {
+	    margin-top: 40px;
+	}
+	.bottomPagination a.page-prev,.bottomPagination a.page-next{
+		display: none;
+	}
+	.formTitle {
+	  font-size: 13px;
+	  font-weight: 500;
+	}
+	.error,.notice{
+		font-size: 13px;
+	}
+	#stickySidebar{
+		margin-top: 0!important;
+	}
+	/********************************
+	student form
+	*************************************/
+	.inlinemgTop {
+	  margin-top: 0;
+	  cursor: pointer;
+	}
+	.inlineNoInput .form-control{
+		width: 100%;
+	}
+	.studentForm .form-inline .formInlineTitle {
+	  margin-right: 5px;
+	  margin: 10px 0;
+	}
+	.inlineCheckBox ul li {
+	    display: block;
+	}
+	.inlinemgTop.inlineCheckBox ul li{
+		display: inline-block;
+	}
+	/*****************************
+	home dashboard
+	**************************************/
+	.topHomeCol{
+		margin-bottom: 20px;
+	}
+	.horizontal-tabs .nav-tabs .nav-link{
+		font-size: 13px;
+		padding: 8px 5px;
+	}
+	/*********************************
+	student profile
+	*************************************/
+	.profileInfoName, .profileInfoValue {
+		display: block;
+		vertical-align: middle;
+		width: 100%;
+		text-align: left;
+	}
+	.foo{
+		position: relative;
+		height: auto;
+	}
+	.noticeCols .card-body{
+		padding-right: 0;
+	}
+	.fc-icon, .fc-toolbar .fc-center {
+	  display: inline-block;
+	  margin-top: 15px;
+	}
+	.foo .fakeScroll__wrap {
+	  padding-right: 0;
+	}
+	/**********************************************
+	form-wizard
+	****************************************************/
+	.wizard-container .wizard-menu.nav-primary .moving-tab{
+		width: 100%!important;
+		display: none;
+	}
+	.wizard-container .wizard-menu li {
+	  background: #f5f5f5;
+	  width: 25%!important;
+	}
+	.nav-pills.nav-primary .nav-link.active {
+	    color: #333!important;
+	    font-size: 14px;
+	    font-weight: 500;
+	}
+	.wizard-container .wizard-menu.nav-primary li a{
+		font-size: 14px;
+		font-weight: 500;
+	}
+	.wizard-container .wizard-menu li a i{
+		display: none;
+	}
+	/************************************
+	main home
+	***************************************/
+	.noticeCols .card-body{
+		padding: 0;
+	}
+	.studentTitle{
+		margin-top: 20px;
+	}
+	/****************************
+	login
+	********************************/
+	.wrapLogin{
+	  margin-top: 30px;
+	}
+	/*******************************
+	student profile
+	***********************************/
+	.profileFlex ul li {
+	    flex-basis: 50%;
+	}
+	.accordionListBg .profileFlex ul li{
+	    flex-basis: 100%;
+
+	}
+	.bookDetails ul li {
+	    flex-basis: 50%;
+	}
+
+
+
+
+}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	/*********************************
+	dashboard
+	*******************************************/
+	.main-header .logo-header .more{
+		color: #fff;
+	}
+	.main-header .navbar-header {
+		 min-height: 55px;
+		background: #2c3248;
+		top: -5px;
+	}
+	/******************************
+	sticky side bar
+	**************************************/
+	#stickySidebar{
+		margin-top: 0!important;
+	}
+	/******************************
+	student form
+	****************************************/
+	.inlineNoInput .form-control{
+		width: 100%;
+		margin-top: 0;
+	}
+	.studentForm .form-inline .formInlineTitle {
+	  margin-right: 5px;
+	  margin: 10px 0;
+	}
+	.inlineCheckBox ul li {
+	  display: block;
+	}
+	.inlinemgTop {
+	  margin-top: 23px;
+	  cursor: pointer;
+	}
+	/*****************************
+	home dashboard
+	**************************************/
+	.topHomeCol{
+		margin-bottom: 20px;
+	}
+	.foo{
+		position: relative;
+		height: auto;
+	}
+	.foo .fakeScroll__wrap {
+	  padding-right: 0;
+	}
+	/**********************************************
+	form-wizard
+	****************************************************/
+	.wizard-container .wizard-menu.nav-primary .moving-tab{
+		width: 100%!important;
+		display: none;
+	}
+	.wizard-container .wizard-menu li {
+	  background: #f5f5f5;
+	  width: 25%!important;
+	}
+	.nav-pills.nav-primary .nav-link.active {
+	    color: #333!important;
+	    font-size: 14px;
+	    font-weight: 500;
+	}
+	.wizard-container .wizard-menu.nav-primary li a{
+		font-size: 14px;
+		font-weight: 500;
+	}
+	.wizard-container .wizard-menu li a i{
+		display: none;
+	}
+	/************************************
+	main home
+	***************************************/
+	.noticeCols .card-body{
+		padding: 0;
+	}
+	.accordionListBg .profileFlex ul li {
+	    flex-basis: 50%;
+	    margin-bottom: 25px;
+	}
+
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+	/******************************
+	student form
+	****************************************/
+	.inlineNoInput .form-control{
+		width: 100%;
+		margin-top: 0;
+	}
+	.studentForm .form-inline .formInlineTitle {
+	  margin-right: 5px;
+	  margin: 10px 0;
+	}
+	/*****************************
+	home dashboard
+	**************************************/
+	.topHomeCol{
+		margin-bottom: 20px;
+	}
+}

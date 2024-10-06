@@ -1,0 +1,86 @@
+.page-item.disabled .page-link {
+
+    color: #8c8585;
+
+    pointer-events: none;
+
+    cursor: auto;
+
+    background-color: #ded6d6;
+
+    border-color: #dee2e6;
+
+    box-shadow: 0 10px 25px -2px rgba(199, 197, 196, 0.6);
+
+}
+
+.main-header {
+
+  background: #130c59;
+
+}
+
+.main-header .logo-header .logo .navbar-brand{
+
+	max-width: 80%;
+
+}
+
+.sidebar .nav.icofontSize>.nav-item a i {
+
+  color: #130c59;
+
+}
+
+.card-title {
+
+  color: #3c8cbd;
+
+}
+
+.card-title i{
+
+	color: #3c8cbd;
+
+}
+
+.commonTable .table tr td {
+
+    color: #504f4f;
+
+    padding: 8px;
+
+    font-size: 13px;
+
+}
+
+table.dataTable {
+
+    border-collapse: collapse;
+
+}
+
+.main-panel .page-inner {
+
+    margin-top: 15px;
+
+    padding: 1rem;
+
+}
+.page-header .breadcrumb{
+	display: initial;
+  padding: 0;
+  background: transparent;
+  flex-grow: 1;
+  text-align: right;
+  margin: 0;
+}
+.page-header .breadcrumb li{
+	display: inline-block;
+}
+.main-panel .page-header {
+  padding: 20px 30px;
+}
+ .pagination>li>a, .pagination>li>span,.pagination>li:last-child>a, .pagination>li:last-child>span{
+	color: #222;
+}

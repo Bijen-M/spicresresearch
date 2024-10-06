@@ -1,0 +1,4 @@
+.sectionGap{height: auto; } .aboutCol {padding: 40px 0 40px; background: #f7f7f7; } .aboutCol ul li{list-style: disc; margin-bottom: 8px; } .aboutCol ul{padding-left: 20px; } .aboutCol p strong {color: #ff4118; }
+.companyServices ol li {
+    width: 50%;
+}
