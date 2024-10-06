@@ -1,2 +1,0 @@
-# spicresresearch
-spices website project
